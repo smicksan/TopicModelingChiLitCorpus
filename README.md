@@ -27,9 +27,9 @@ Additionally, a **notebook** is available for **preprocessing** the corpus.
 
 | **Metric**                 | **Unprocessed Files** | **Processed Files** | **Why the Change?**                                   |
 |---------------------------|-----------------------|---------------------|------------------------------------------------------|
-| **Total Words (Tokens)**   | 5,404,761             | 2,191,892           | Stopwords & punctuation removed                      |
-| **Unique Words (Tokens)**  | 70,728                | 51,673              | Slight reduction, but more meaningful words remain   |
-| **Lexical Richness**       | 0.0131                | 0.0236              | Fewer redundant words, unique word ratio increased   |
+| **Total Tokens**          | 5,404,761             | 2,191,892           | Stopwords & punctuation removed                      |
+| **Unique Tokens**         | 70,728                | 51,673              | Slight reduction, but more meaningful words remain   |
+| **Lexical Richness**      | 0.0131                | 0.0236              | Fewer redundant words, unique word ratio increased   |
 
 ## Topic Modeling with OCTIS
 
